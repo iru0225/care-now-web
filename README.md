@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). with Node version 18.17.1
 
+Before running this project in your local machine, you need to clone and run the API to make sure the application not breaking, here's the repo for the API
+https://github.com/iru0225/care-now-api
+
 ## Available Scripts
 
 In the project directory, you can run:
